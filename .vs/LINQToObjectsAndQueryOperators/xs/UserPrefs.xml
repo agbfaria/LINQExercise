@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7B4544C3-AE91-4FDD-A879-4B0F892B0BE5}|Default">
+  <MonoDevelop.Ide.ItemProperties.LINQToObjectsAndQueryOperators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQToObjectsAndQueryOperators/Program.cs">
+    <Files>
+      <File FileName="LINQToObjectsAndQueryOperators/Program.cs" Line="55" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="LINQToObjectsAndQueryOperators" expanded="True">
+            <Node name="LINQToObjectsAndQueryOperators" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="LINQToObjectsAndQueryOperators" expanded="True">
+                <Node name="LINQToObjectsAndQueryOperators.Program" expanded="True" />
+                <Node name="LINQToObjectsAndQueryOperators.Student" expanded="True" />
+                <Node name="LINQToObjectsAndQueryOperators.University" expanded="True" />
+                <Node name="LINQToObjectsAndQueryOperators.UniversityManager" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
